@@ -2,7 +2,7 @@
 
 Aplicación web interactiva que modela las líneas del sistema masivo de transporte **Metro de Medellín** como un grafo ponderado para calcular y visualizar en tiempo real la ruta más corta entre dos estaciones utilizando el **Algoritmo de Dijkstra**.
 
-**[Ver Demo en Vivo][(https://tu-enlace-en-vercel.app)](https://metro-dijsktra-mjsiirg9z-miguel-04e7.vercel.app/)** *(Reemplazar con tu URL desplegada)*
+**[Ver Demo en Vivo][(Rutas de metro](https://metro-dijsktra-mjsiirg9z-miguel-04e7.vercel.app/)**
 ---
 
 ## 🎯 Objetivo del Proyecto
