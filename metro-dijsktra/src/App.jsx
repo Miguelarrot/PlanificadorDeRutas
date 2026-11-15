@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Sidebar from './components/Sidebar';
 import MapaInteractivo from './components/MapaInteractivo';
-import { calcularDijkstra } from '../utils/dijkstra';
+import { calcularDijkstra } from '../utils/Dijkstra';
 
 function App() {
     const [origen, setOrigen] = useState('Niquia');
